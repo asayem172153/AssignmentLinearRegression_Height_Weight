@@ -1,3 +1,4 @@
 # AssignmentLinearRegression_Height_Weight
-Model: Linear Regression
+<span style="color:red">Model:</span> Linear Regression
+
 Using Linear Regression model to **PREDICT** height & weight
